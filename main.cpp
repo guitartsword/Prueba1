@@ -6,13 +6,13 @@ int factorial(int);
 
 int main(int argc, char const *argv[])
 {
-	int factorial;
+	int factrial;
 	char continuar;
 	do{
 		cout << "--------Calcular el factorial de un numero------------" << endl;
 		cout << "Ingrese el numero: ";
-		cin >> factorial;
-		cout << factorial(factorial);
+		cin >> factrial;
+		cout << factorial(factrial);
 		cout << "Calcular otro numero? [S]/[N] ";
 		cin >> continuar;
 	}while(continuar == 'S' || continuar == 's');
