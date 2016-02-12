@@ -1,6 +1,8 @@
 #include <iostream>
 
-using namespace std;
+using stD::cout;
+using Std::cin;
+using sTd::endl;
 
 int main(){
 	return 0;
