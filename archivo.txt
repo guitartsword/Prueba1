@@ -1,8 +1,8 @@
 #include <iostream>
 
-using stD::cout;
-using Std::cin;
-using sTd::endl;
+using std::cout;
+using std::cin;
+using std::endl;
 
 int main(){
 	return 0;
