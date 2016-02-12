@@ -1,12 +1,7 @@
-jkasdjkadjkadjkasdjkasd
-asd
-asd
-asd
-dsa
-dsa
-dsa
-dsa
+#include <iostream>
 
+using namespace std;
 
-
-INFORMACION DE LA CALSE DE LABORATORIO
+int main(){
+	return 0;
+}
