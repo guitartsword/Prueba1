@@ -19,3 +19,10 @@ int main(int argc, char const *argv[])
 
 	return 0;
 }
+
+int factorial(int n){
+	if(n == 0 || n == 1)
+		return 1;
+	else
+		return n*factorial(n-1);
+}
