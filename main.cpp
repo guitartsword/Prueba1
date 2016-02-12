@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
 	char continuar;
 	do{
 		cout << "--------Calcular el factorial de un numero------------" << endl;
-		cout << "Ingrese el numero: "
+		cout << "Ingrese el numero: ";
 		cin >> factorial;
 		cout << factorial(factorial);
 		cout << "Calcular otro numero? [S]/[N] ";
